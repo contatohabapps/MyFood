@@ -7,15 +7,15 @@ Política de privacidade
 
 A sua privacidade é importante para nós. Esta Política de Privacidade explica como o **MyFood** coleta, usa, armazena e compartilha dados dos usuários.
 
-Se você tiver dúvidas, entre em contato: ** contatohabapps@gmail.com **
+Se você tiver dúvidas, entre em contato: **contatohabapps@gmail.com**
 
 ---
 
 ## 1. Quem somos
 
-O aplicativo **MyFood** é operado por ** Filipe de Souza **, responsável pelo tratamento dos dados pessoais descritos nesta política.
+O aplicativo **MyFood** é operado por **Filipe de Souza**, responsável pelo tratamento dos dados pessoais descritos nesta política.
 
-Contato do responsável: ** contatohabapps@gmail.com **
+Contato do responsável: **contatohabapps@gmail.com**
 
 ---
 
@@ -102,7 +102,7 @@ Você pode solicitar, conforme aplicável:
 - Revogação do consentimento.
 - Exclusão de dados pessoais, quando possível legalmente.
 
-Para exercer seus direitos, envie solicitação para: ** contatohabapps@gmail.com **
+Para exercer seus direitos, envie solicitação para: **contatohabapps@gmail.com**
 
 ---
 
